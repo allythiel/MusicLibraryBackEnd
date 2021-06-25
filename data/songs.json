@@ -32,7 +32,7 @@
     "releaseDate": "12/03/1965"
   },
   {
-    "id": "5",
+    "id": 5,
     "title": "Honestly",
     "album": "Chroma",
     "artist": "Cartel",
@@ -192,16 +192,7 @@
     "releaseDate": "02/18/2003"
   },
   {
-    "id": 25
-  },
-  {
-    "id": 26
-  },
-  {
-    "id": 27
-  },
-  {
-    "id": 28,
+    "id": 25,
     "title": "Mirrors",
     "album": "The 20/20 Experience",
     "artist": "Justin Timberlake",
